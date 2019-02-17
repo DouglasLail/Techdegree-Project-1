@@ -1,1 +1,2 @@
-# Techdegree Project 1
+# Techdegree Project One
+
