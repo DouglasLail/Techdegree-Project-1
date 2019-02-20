@@ -77,7 +77,7 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 .tag {
-  background-color: #efefef;
+  background-color: #CBCDD3;
   color: black;
   padding: 10px;
   border-radius: 5px;
@@ -102,6 +102,10 @@ header .profile-image:hover {
   border-color: #676E86;
 }
 
+a:hover {
+  color: white
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
@@ -117,7 +121,7 @@ ul.skills {
 }
 
 .skills li:nth-child(odd) {
-  background: #0399ff;
+  background: #676E86;
 }
 
 footer {
@@ -129,6 +133,7 @@ footer {
 footer .copyright {
   top: -8px;
   font-size: .75em;
+  color: #676E86;
 }
 
 footer ul {
