@@ -123,6 +123,25 @@ ul.skills {
 .skills li:nth-child(odd) {
   background: #676E86;
 }
+
+ul.button {
+  padding: 0;
+  text-align: center;
+  transition: all .5s
+}
+
+ul.button:hover {
+  transform: scale(1.2) rotate(360deg);
+}
+
+.button li {
+  border-radius: 6px;
+  display: inline-block;
+  background: #00002e;
+  color: white;
+  padding: 5px 10px;
+  margin: 2px;
+}
 .portrait-image {
   padding: 5px 5px 25px;
   max-width: 400px;
