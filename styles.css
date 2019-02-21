@@ -123,6 +123,34 @@ ul.skills {
 .skills li:nth-child(odd) {
   background: #676E86;
 }
+.portrait-image {
+  padding: 5px 5px 25px;
+  max-width: 400px;
+}
+
+.wall_image {
+  padding: 70px 5px 25px;
+  max-width: 400px;
+}
+
+.desk_painting {
+  padding: 50px 5px 25px;
+  max-width: 400px;
+}
+
+.work {
+  padding: 50px 5px 25px;
+  max-width: 400px;
+}
+.red_work {
+  padding: 50px 5px 25px;
+  max-width: 400px;
+}
+
+.portraits {
+  padding: 50px 5px 25px;
+  max-width: 400px;
+}
 
 footer {
   width: 100%;
